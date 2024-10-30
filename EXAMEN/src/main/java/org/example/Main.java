@@ -10,7 +10,7 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         EXAMEN examen = new EXAMEN();
         examen.ejercicio1();
-        examen.ejercicio2();
+
 
 
     }
